@@ -6,7 +6,7 @@ TruthLens is a deep learning-based application that detects deepfakes using a pr
 
 ## 🚀 Features
 
-- Deep learning model using EfficientNet/MesoNet
+- Deep learning model using MesoNet
 - Real-time and batch detection modes
 - User-friendly interface for selecting video inputs
 - High accuracy on benchmark deepfake datasets
@@ -18,7 +18,7 @@ TruthLens is a deep learning-based application that detects deepfakes using a pr
 ```
 chat_deepfake/
 ├── model/                  
-├── dataset/               # (You will add this manually)
+├── Dataset/               # (You will add this manually)
 ├── app.py                 # Main app script
 ├── requirements.txt       # Required Python libraries
 └── ...
